@@ -18,6 +18,9 @@
     "url": "https://github.com/roblox-aurora/rbxts-transform-env/issues"
   },
   "homepage": "https://github.com/roblox-aurora/rbxts-transform-env#readme",
+  "peerDependencies": {
+    "typescript": "^5.1.6"
+  },
   "dependencies": {
     "chalk": "^4.1.1",
     "colors": "^1.4.0",
